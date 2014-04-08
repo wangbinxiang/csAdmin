@@ -163,7 +163,6 @@ function addrow(){
     <div iconCls='icon-save' onclick="saverow()">保存</div>
     <div iconCls='icon-cancel' onclick="cancelrow()">取消</div>
     <div class="menu-sep"></div>
-    <div iconCls='icon-cancel' onclick="delrow()">删除</div>
     <div iconCls='icon-reload' onclick="reloadrow()">刷新</div>
     <div class="menu-sep"></div>
     <div>Exit</div>
